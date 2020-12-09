@@ -137,12 +137,12 @@ Figure 7: A custom exception class to check for invalid menu choices.
 Finally, we worked with Github desktop to create a repository, commit the script files, then push up to Github when ready. 
 I downloaded Github desktop and authenticated my login. From there, I was able to create a repository locally, then later push that up to Github itself (Figure 8). 
 
-<insert picture>
+![Figure 8](https://github.com/claraross/IntroToProgPython-Mod08/blob/main/github%20desktop.png)
 
 #### Figure 8: Working with Github desktop to create a repo then push changes
 I also was able to set up Github on PyCharm and commit and push changes directly from there. This allows for a very seamless experience when working with code and wanting to push changes so that others may use them (Figure 9). 
  
-<insert picture>
+![Figure 9](https://github.com/claraross/IntroToProgPython-Mod08/blob/main/pycharm%20vcs.png)
 
 #### Figure 9: Using version control on PyCharm. A seamless experience (unless you’re trying to fork).
 
