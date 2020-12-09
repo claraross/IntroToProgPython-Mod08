@@ -1,0 +1,8 @@
+Chair,$150.00
+Table,$300.00
+Bed,$50.00
+Lamp,$35.50
+Rug,$400.00
+Table, Chairs, And Runner,$100.00
+Table,$20.00
+Desk,$300.00
